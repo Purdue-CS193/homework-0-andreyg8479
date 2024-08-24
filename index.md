@@ -5,4 +5,4 @@
 -  Meet once a week
 -  Near Restaurants and ends around Dinner
 
-```this is a markdown thing```
+```this is a *markdown* thing```
