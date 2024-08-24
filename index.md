@@ -5,9 +5,11 @@
 -  Meet once a week
 -  Near Restaurants and ends around Dinner
 
-```this is a _markdown_ thing
+```this is a _markdown_ thing```
+
+
 everything below this is from the template
-```
+
 
 ## Welcome to GitHub Pages
 
